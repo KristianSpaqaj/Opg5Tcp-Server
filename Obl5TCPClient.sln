@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obl5TCPServer", "Obl5TCPClient\Obl5TCPServer.csproj", "{6905B269-D3E2-47CB-906E-3819607BD39A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6905B269-D3E2-47CB-906E-3819607BD39A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6905B269-D3E2-47CB-906E-3819607BD39A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6905B269-D3E2-47CB-906E-3819607BD39A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6905B269-D3E2-47CB-906E-3819607BD39A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAFCF176-BCB3-4FF0-AC66-624DAEC6D787}
+	EndGlobalSection
+EndGlobal
